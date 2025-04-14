@@ -34,7 +34,7 @@ REQUIRED = [
     'tqdm',
     'huggingface_hub',
     'sentencepiece',
-    'protobuf<4',
+    'protobuf',
     'timm',
     'transformers',
     'webdataset',
